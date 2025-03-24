@@ -21,6 +21,6 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
 
-        String arr[]={"M","B"};
+        String arr[]={"M","A","B"};
     }
 }
