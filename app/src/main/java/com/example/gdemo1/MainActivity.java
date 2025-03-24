@@ -8,6 +8,8 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+import java.util.ArrayList;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -23,6 +25,10 @@ public class MainActivity extends AppCompatActivity {
 
 
         String arr[]={"M","A","B"};
+
+        ArrayList<String> list = new ArrayList<>();
+        list.add("AAAA");
+
         
     }
 }
