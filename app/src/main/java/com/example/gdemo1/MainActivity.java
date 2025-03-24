@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
 
         ArrayList<String> list = new ArrayList<>();
         list.add("AAAA");
+        list.add("BBBB");
+
 
         
     }
